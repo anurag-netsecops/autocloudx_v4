@@ -1,0 +1,6 @@
+- [x] Store editable course drafts and published courses with admin-only changes.
+- [x] Add course and lesson editor with Google Drive validation before publishing.
+- [x] Connect student catalogue and player to published courses.
+- [x] Verify admin access, draft creation/editing, private-link blocking, and student player access.
+- [x] Add admin-only student preview; verify unsaved lesson order, private-video blocking, and desktop/mobile display without publishing.
+- [ ] Verify successful publishing and real playback — needs a publicly shared video accessible to the connected Google Drive account.
